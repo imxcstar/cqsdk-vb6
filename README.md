@@ -1,3 +1,5 @@
+### 版本：V9
+
 ### 使用准备：
 ### 打开VB6的bin目录，把目录下的LINK.exe文件重命名为LINK2.exe，然后把cqsdk-vb6目录下的工具文件夹里的LINK.exe复制到VB6的BIN目录下
 
